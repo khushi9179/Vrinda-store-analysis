@@ -40,5 +40,5 @@ The Excel dashboard provides the following key insights:
 * Amazon, Myntra & Flipkart drive the majority of sales.
 * Maharashtra & Karnataka are the top revenue-generating states.
 * Most orders were successfully delivered, showing strong operations.
-➡️ Vrinda Store should focus on women-centric marketing, top states, and leading e-commerce platforms to boost growth
+* ➡️ Vrinda Store should focus on women-centric marketing, top states, and leading e-commerce platforms to boost growth
 
