@@ -20,7 +20,8 @@ The dataset contains the following fields:
 * **Visualization** (Charts, filters, KPIs for interactive reporting)
 
 ## Dashboard Interaction 
-<a href=https://github.com/khushi9179/Vrinda-store-analysis/blob/main/Screenshot%20(151).png?raw=true>VIEW DASHBOARD</a>
+<a href=https://raw.githubusercontent.com/khushi9179/Vrinda-store-analysis/refs/heads/main/Screenshot%20(151).png>**VIEW DASHBOARD**</a>
+
 <img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/a63c79f1-fa88-466e-878f-3bac84da8aba" />
 
 
@@ -35,10 +36,9 @@ The Excel dashboard provides the following key insights:
 7. **Interactive Slicers** – Filters for month, category, and channel to dynamically explore data.
 
 ## Conclusion
-*Women (64%) are the main buyers, especially in the 30–49 age group.
-*Amazon, Myntra & Flipkart drive the majority of sales.
-*Maharashtra & Karnataka are the top revenue-generating states.
-*Most orders were successfully delivered, showing strong operations.
+* Women (64%) are the main buyers, especially in the 30–49 age group.
+* Amazon, Myntra & Flipkart drive the majority of sales.
+* Maharashtra & Karnataka are the top revenue-generating states.
+* Most orders were successfully delivered, showing strong operations.
 ➡️ Vrinda Store should focus on women-centric marketing, top states, and leading e-commerce platforms to boost growth
-
 
