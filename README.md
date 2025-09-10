@@ -20,6 +20,9 @@ The dataset contains the following fields:
 * **Visualization** (Charts, filters, KPIs for interactive reporting)
 
 ## Dashboard Interaction 
+<a href=https://github.com/khushi9179/Vrinda-store-analysis/blob/main/Screenshot%20(151).png?raw=true>**VIEW DASHBOARD**</a>
+<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/a63c79f1-fa88-466e-878f-3bac84da8aba" />
+
 
 ## Dashboard Insights
 The Excel dashboard provides the following key insights:
